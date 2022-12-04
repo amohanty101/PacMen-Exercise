@@ -10,4 +10,8 @@ When a given pacman hits the edge of the screen, it should change position to st
 How to Run: 
 - 4 PacMan images ( Mouth Open, Mouth Close, Left To Right, Right to Left )
 - index.html file contains a an id ='game' that gives a handle on the element
--pacmen.js file conatins js code to Implement the makePac() and checkCollisions() functions
+- pacmen.js file contains js code to Implement the makePac() and checkCollisions() functions
+
+Roadmap of future improvements:
+
+License information
