@@ -1,6 +1,8 @@
 # PacMen-Exercise
 <img src='./pacmanFactoryExercise.png'>
 
+<a href ="https://amohanty101.github.io/Eye-Movement-Excercise"> Visit Site </a>
+
 The task is to create a Pacman on demand (Add PacMan) and move these pacmen across the page.
 
 Here's how the game is played:
